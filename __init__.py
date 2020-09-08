@@ -1,1 +1,1 @@
-from auto_clicker.file_0 import imagepos, 
+from auto_clicker.file_0 import imagepos
